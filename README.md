@@ -26,8 +26,8 @@ This work was conducted in Spanish, as it aligns with the language of the course
 Feel free to explore the provided Jupyter notebook.
 
 ## Contributors
-- [Unai Gurbindo]
-- [Ander Aquerreta]
+- Unai Gurbindo
+- Ander Aquerreta
 
 ## License
 This project is licensed under the [MIT License](LICENSE), which means you are free to use, modify, and distribute the code for both commercial and non-commercial purposes.
